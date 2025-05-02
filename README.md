@@ -1,13 +1,6 @@
 # Hello There ,
 
 #### I am Nikhil Nebhavani, a student of Computer Science Engineering.
-#
-### Projects : 
-### 1. B-Tech BlogWale :
-#### This is a Blogging Website.
-<a href="https://www.btechblogwale.com/" style=" padding: 3.6px; background: black; color: white; border-radius: 5px; decoration:none; " > 👉🏻 Visit Now 👈🏻</a>
-#
-
 
 
 ### 📁 Technologies I Know and Currently Working On :
@@ -33,8 +26,4 @@
 [![Nikhil's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-nebhavani)
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilnebhavani)](https://github.com/anuraghazra/github-readme-stats)
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnebhavani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
